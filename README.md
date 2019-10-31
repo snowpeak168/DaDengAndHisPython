@@ -18,10 +18,10 @@
 
 python网络爬虫与文本数据分析，已经于近期重新录制上传，购买方式用微信扫下方二维码即可
 
-![](img/20191031.jpg)
+![](https://github.com/thunderhit/DaDengAndHisPython/blob/master/img/20191031.jpg)
 
 ### 打赏留言
 
 觉得内容不错，也可打赏留言
 
-![](img/赞赏吗.jpg)
+![](https://github.com/thunderhit/DaDengAndHisPython/blob/master/img/赞赏吗.jpg)
