@@ -11,17 +11,16 @@
 
 之前我分享在公众号内的代码都是存放到百度网盘，这样大家查看代码或者下载都会存在各种不方便，今后的代码我就尽量尝试传到github，大家觉得我的内容不错的话，请多多支持，转发我的文章。
 
-### 联系方式
-邮箱: thunderhit@qq.com
-
 ### 大邓的付费课程
 
-python网络爬虫与文本数据分析，已经于近期重新录制上传，购买方式用微信扫下方二维码即可
+python网络爬虫与文本数据分析，已经于近期重新录制上传，
 
-![](https://github.com/thunderhit/DaDengAndHisPython/blob/master/img/20191031.jpg)
 
-### 打赏留言
 
-觉得内容不错，也可打赏留言
+点击下方链接，微信扫码后查看
 
-![](https://github.com/thunderhit/DaDengAndHisPython/blob/master/img/赞赏吗.jpg)
+https://m.qlchat.com/wechat/page/channel-intro?channelId=2000001949612001
+
+
+
+如果链接失效，可加大邓微信372335839， 备注“网课”
